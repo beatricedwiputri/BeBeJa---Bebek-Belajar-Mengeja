@@ -33,5 +33,6 @@ This project was developed as part of the **GEMASTIK Competition (July 2024)**, 
 2. Open the project using Unity Hub  
 3. Run the project in the Unity Editor  
 
+![Preview](Pictures/GamePlay.png)
 ## 📚 Project Context  
 Created for academic purposes, focusing on inclusive and accessible learning tools.
