@@ -1,4 +1,4 @@
-# 🦆 BeBeJa - Bebek Belajar Mengeja
+# 🐥 BeBeJa - Bebek Belajar Mengeja
 ### Educational Game for Children with Dyslexia
 ![Preview](Pictures/HomePage.png)
 ## 📌 Description  
