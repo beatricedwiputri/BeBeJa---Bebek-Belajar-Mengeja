@@ -1,6 +1,6 @@
 # 🦆 BeBeJa
 ### Bebek Belajar Mengeja – Educational Game for Children with Dyslexia
-
+![Preview](Pictures/HomePage.png)
 ## 📌 Description  
 BeBeJa (Bebek Belajar Mengeja) is an educational game designed to support children with dyslexia in improving their spelling and phonetic skills through interactive and multisensory learning.
 
